@@ -5,3 +5,5 @@ It is a script that display the content of /etc/passwd and /etc/hosts.
 It is a script display the last 10 lines of /etc/passwid.
 It is a script display the 10 lines of /etc/passwid.
 It is a script that displays the third line of the file iacta.
+It is  a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
